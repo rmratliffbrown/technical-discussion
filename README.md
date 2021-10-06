@@ -13,3 +13,5 @@ testing colab with R in a [notebook](https://github.com/rmratliffbrown/technical
 
 (issues -> drag and drop image)
 ![Screen Shot 2021-09-02 at 9 29 01 PM](https://user-images.githubusercontent.com/89669560/131936898-0368f824-d1d5-4223-a6e6-1cf54267a7c4.png)
+
+![image2](https://github.com/rmratliffbrown/technical-discussion/issues/1#issue-987309174)
